@@ -1,3 +1,6 @@
+# Visual Code configuration Items
+.vscode/
+
 # Prerequisites
 *.d
 
